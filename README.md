@@ -34,7 +34,7 @@ const conejero = {
     "Hexagonal Architecture",
     "CQRS",
   ],
-  currentFocus: "Building reawrds social network",
+  currentFocus: "Building rewards social network",
   funFact:
     "To understand what recursion is, you must first understand what is recursion.",
 };
