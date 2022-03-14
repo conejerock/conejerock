@@ -16,18 +16,20 @@
 ```javascript
 const conejero = {
   pronouns: "He" | "Him",
-  code: ["Typescript ⌨️", "PHP 🐘", "Python 🐍", "Java ☕", "C++ 🥷"],
+  code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
   askMeAbout: ["web dev", "embed dev", "app dev"],
   technologies: {
     backEnd: {
-      js: ["Express", "Symfony", "Spring"],
+      js: ["Express", "NodeJS"],
+      php: ["Symfony"],
+      java: ["Spring"]
     },
     frontEnd: {
-      native: ["NuxtJS", "React"],
+      js: ["NuxtJS", "Vue", "React"],
+      native: ["React Native", "Android SDK"],
     },
-    devOps: ["Docker🐳", "Google Cloud ☁️"],
     databases: ["MySQL", "PostgreSQL", "mongo", "Firestore"],
-    misc: ["Firebase", "Capacitor", "Cypress", "Jenkins"],
+    misc: ["Docker🐳", "Firebase", "Cordova"],
   },
   architecture: [
     "Server Side Rendering",
