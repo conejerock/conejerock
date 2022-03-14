@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="50" style="margin-bottom: -27px;" /> A little more about me...
 
 ```javascript
-const conejero = {
+const conejerock = {
   pronouns: "He" | "Him",
   code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
   askMeAbout: ["web dev", "embed dev", "app dev"],
