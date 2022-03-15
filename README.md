@@ -41,3 +41,5 @@ const conejerock = {
     "To understand what recursion is, you must first understand what is recursion.",
 };
 ```
+###### If you're interested in knowing I'm listening right now, you can see [Spotify SVG](https://github.com/conejerock/spotify-svg)...
+<img src="http://spotify-svg.juanjoconejero.com:80/current-spotify.svg" data-canonical-src="http://spotify-svg.juanjoconejero.com:80/current-spotify.svg" width="400" />
