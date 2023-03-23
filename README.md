@@ -43,4 +43,5 @@ const conejerock = {
 ```
 ###### If you're interested in knowing I'm listening right now, you can see [Spotify SVG](https://github.com/conejerock/spotify-svg)...
 <a href="https://open.spotify.com/user/sircone" target="_blank">
-<img src="http://spotify-svg.juanjoconejero.com:80/current-spotify.svg" data-canonical-src="http://spotify-svg.juanjoconejero.com:80/current-spotify.svg" width="400" /></a>
+  
+<img src="[http://spotify-svg.juanjoconejero.com:80/current-spotify.svg]([http://spotify.juanjoconejero.com/current-spotify.svg](http://spotify.juanjoconejero.com/current-spotify.svg))" data-canonical-src="[http://spotify-svg.juanjoconejero.com:80/current-spotify.svg](http://spotify.juanjoconejero.com/current-spotify.svg)" width="400" /></a>
