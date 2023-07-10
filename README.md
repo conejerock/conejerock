@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/followers/conejerock?label=Follow&style=social)
 
 
-[![](https://img.shields.io/badge/conejerock-purple?style=flat-square&logo=Monero&logoColor=white&link=https://www.mamby.com/u/conejerock)](https://www.mamby.com/u/conejerock)
+[![](https://img.shields.io/badge/jotajota-purple?style=flat-square&logo=Monero&logoColor=white&link=https://www.mamby.com/u/jotajota)](https://www.mamby.com/u/jotajota)
 [![](https://img.shields.io/badge/juanjoconejero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/juanjoconejero/)
 [![](https://img.shields.io/badge/juanjoconejero.com-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://juanjoconejero.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=conejerock.conejerock)
