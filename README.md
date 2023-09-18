@@ -16,8 +16,8 @@
 ```javascript
 const conejerock = {
   pronouns: "He" | "Him",
-  code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
-  askMeAbout: ["web dev", "embed dev", "app dev"],
+  code: ["Typescript", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
+  askMeAbout: ["frontend dev", "backend dev", "app dev", "embed dev"],
   technologies: {
     backEnd: {
       js: ["Express", "NodeJS"],
@@ -25,11 +25,11 @@ const conejerock = {
       java: ["Spring"]
     },
     frontEnd: {
-      js: ["NuxtJS", "Vue", "React"],
+      js: ["Nuxt", "Vue", "React"],
       native: ["React Native", "Android SDK"],
     },
-    databases: ["MySQL", "PostgreSQL", "mongo", "Firestore"],
-    misc: ["Docker🐳", "Firebase", "Cordova"],
+    databases: ["MySQL", "PostgreSQL", "mongo"],
+    misc: ["Docker🐳", "Elasticsearch", "Capacitor", "Arduino"],
   },
   architecture: [
     "Server Side Rendering",
@@ -41,7 +41,3 @@ const conejerock = {
     "To understand what recursion is, you must first understand what is recursion.",
 };
 ```
-###### If you're interested in knowing I'm listening right now, you can see [Spotify SVG](https://github.com/conejerock/spotify-svg)...
-<a href="https://open.spotify.com/user/sircone" target="_blank">
-  
-<img src="http://spotify.juanjoconejero.com/current-spotify.svg" width="400" /></a>
