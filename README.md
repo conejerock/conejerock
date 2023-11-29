@@ -33,7 +33,7 @@ const conejerock = {
     "Hexagonal Architecture",
     "CQRS",
   ],
-  currentFocus: "Building rewards social network",
+  currentFocus: "Training in new technologies and developments",
   funFact:
     "To understand what recursion is, you must first understand what is recursion.",
 };
