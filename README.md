@@ -1,11 +1,8 @@
 <h2>Juanjo Conejerock 🐰🤘</h2>
-<p><em>Software Engineer at <a href="https://www.mamby.com/" target="_blank">Mamby.com</a></em></p>
+<p><em>Software Engineer</em></p>
 
-[![](https://img.shields.io/twitter/follow/juanjoconejero?label=Follow)](https://twitter.com/intent/follow?screen_name=juanjoconejero)
 ![](https://img.shields.io/github/followers/conejerock?label=Follow&style=social)
 
-
-[![](https://img.shields.io/badge/jotajota-purple?style=flat-square&logo=Monero&logoColor=white&link=https://www.mamby.com/u/jotajota)](https://www.mamby.com/u/jotajota)
 [![](https://img.shields.io/badge/juanjoconejero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/juanjoconejero/)
 [![](https://img.shields.io/badge/juanjoconejero.com-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://juanjoconejero.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=conejerock.conejerock)
