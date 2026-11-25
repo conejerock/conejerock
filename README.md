@@ -4,7 +4,6 @@
 ![](https://img.shields.io/github/followers/conejerock?label=Follow&style=social)
 
 [![](https://img.shields.io/badge/juanjoconejero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/juanjoconejero/)
-[![](https://img.shields.io/badge/juanjoconejero.com-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://juanjoconejero.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=conejerock.conejerock)
 
 
@@ -13,28 +12,31 @@
 ```javascript
 const conejerock = {
   pronouns: "He" | "Him",
-  code: ["Typescript", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
-  askMeAbout: ["frontend dev", "backend dev", "app dev", "embed dev"],
+  code: ["PHP 🐘", "Typescript", "Python 🐍", "Java"],
+  askMeAbout: ["product engineer", "software engineer"],
   technologies: {
     backEnd: {
+      php: ["Symfony", "Slim", "Laravel"],
       js: ["Express", "NodeJS"],
-      php: ["Symfony"],
       java: ["Spring"]
     },
     frontEnd: {
-      js: ["Nuxt", "Vue", "React"],
+      js: ["Nuxt", "Angular", "React"],Q
       native: ["React Native", "Android SDK"],
     },
     databases: ["MySQL", "PostgreSQL", "mongo"],
-    misc: ["Docker🐳", "Elasticsearch", "Capacitor", "Arduino"],
+    misc: ["Docker🐳", "Elasticsearch", "k8s"],
+    ai: ["Claude ✴️"]
   },
   architecture: [
-    "Server Side Rendering",
+    "Spec Coding",
     "Hexagonal Architecture",
     "CQRS",
+    "DDD",
+    "TDD"
   ],
-  currentFocus: "Training in new technologies and developments",
-  funFact:
-    "To understand what recursion is, you must first understand what is recursion.",
+  currentFocus: "Product Engineer at Aramis Group",
+  funFact: "To understand what recursion is, you must first understand what is recursion.",
 };
 ```
+
